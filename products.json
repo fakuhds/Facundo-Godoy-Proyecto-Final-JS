@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "Blusa Floreada",
+    "price": 5000,
+    "color": "Verde",
+    "image": "images/img_productos/1-blusa.jpeg",
+    "category": "nuevaTemporada"
+  },
+  {
+    "id": 2,
+    "name": "Buzo",
+    "price": 7000,
+    "color": "Naranja",
+    "image": "images/img_productos/2-buzo.jpg",
+    "category": "nuevaTemporada"
+  },
+  {
+    "id": 3,
+    "name": "Pantalon cuero",
+    "price": 9000,
+    "color": "Negro",
+    "image": "images/img_productos/3-pantalon.png",
+    "category": "nuevaTemporada"
+  },
+  {
+    "id": 4,
+    "name": "pañuelo",
+    "price": 2000,
+    "color": "Dorado",
+    "image": "images/img_productos/4-panuelos.png",
+    "category": "nuevaTemporada"
+  },
+  {
+    "id": 5,
+    "name": "Camiseta Manga Larga",
+    "price": 6000,
+    "color": "Negro",
+    "image": "images/img_productos/5-camiseta.jpg",
+    "category": "nuevaTemporada"
+  },
+  {
+    "id": 6,
+    "name": "Saco",
+    "price": 8000,
+    "color": "Beige",
+    "image": "images/img_productos/6-saco.jpg",
+    "category": "nuevaTemporada"
+  },
+  {
+    "id": 7,
+    "name": "Short Jean",
+    "price": 7000,
+    "color": "Azul",
+    "image": "images/img_productos/7-short.jpeg",
+    "category": "nuevaTemporada"
+  },
+  {
+    "id": 8,
+    "name": "Remeron",
+    "price": 6500,
+    "color": "Negro",
+    "image": "images/img_productos/10-remeron2.png",
+    "category": "nuevaTemporada"
+    
+   
+  },
+  {
+    "id": 9,
+    "name": "Remeron",
+    "price": 6000,
+    "color": "Azul",
+    "image": "images/img_productos/9-remeron.jpeg",
+    "category": "nuevaTemporada"
+  },
+  {
+    "id": 10,
+    "name": "Musculosa Floreada",
+    "price": 5000,
+    "color": "Rojo",
+    "image": "images/img_productos/8-musculosa.jpeg",
+    "category": "nuevaTemporada"
+  }
+  
+]

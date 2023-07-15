@@ -1,0 +1,125 @@
+
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  background-color: #fcd4e0;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+
+
+.section-title {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.navbar {
+  height: 10vh;
+  background-color:rgb(104, 107, 106);
+}
+
+.mt-10 {
+  margin-top: 80px !important;
+}
+
+
+
+.gallery img {
+  width: 100%;
+  height: 100%;
+}
+
+li img {
+  width: 100%;
+  height: auto;
+}
+
+
+
+footer i {
+  font-size: 2rem;
+}
+
+
+
+.cart-img {
+  max-width: 150px !important;
+  height: auto;
+}
+
+
+
+.iframe-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.modal-iframe {
+  height: 50vh;
+  width: auto;
+}
+
+
+
+#scrollUp {
+  position: fixed;
+  bottom: 11vh;
+  right: 5vw;
+  z-index: 1;
+}
+
+
+#ideasButton {
+  position: fixed;
+  bottom: 3vh;
+  right: 5vw;
+  z-index: 1;
+}
+
+
+
+.info {
+  border-radius: 10px;
+}
+
+
+.footer-top {
+  height: 100px;
+  line-height: 10vh;
+}
+
+.footer-top a,
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+.footer-bottom {
+  background-color: black;
+  color: white;
+  line-height: 2vh;
+  padding-top: 2vh;
+  font-size: smaller;
+}
